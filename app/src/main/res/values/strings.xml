@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Aplikasi Deteksi DM</string>
+    <string name="judul_app">Selamat Datang di Aplikasi Deteksi Diabetes Melitus</string>
+    <string name="button_1">Masuk</string>
+
+    <string name="judul_app2">Selamat Datang di Aplikasi Deteksi Diabetes Melitus</string>
+    <string name="button_2">Mulai Periksa</string>
+    <string name="button_3">Referensi Data</string>
+    <string name="button_4">Keluar</string>
+
+    <string name="button_5">Deteksi Penyakit Diabetes Melitus</string>
+    <string name="kuis_1">Apakah anda memiliki keturunan gula darah di keluarga anda?</string>
+    <string name="kuis_2">Apakah anda merasa kelelahan ketika berolah-raga?</string>
+    <string name="kuis_3">Apakah anda mengkonsumsi makananan berad tetapi berad badan menurun?</string>
+    <string name="kuis_4">Apakah anda mengalami tekanan darah tinggi?</string>
+    <string name="kuis_5">Apakah anda sering mearasa haus?</string>
+
+    <string name="data_1">1.Data ini dipakari oleh Dokter yang berkeahlian pada penyakit DM</string>
+    <string name="data_2">2.Tugas Akhir ini dibimbing oleh bapak Budi Irawan S.Si., M.T. Selaku pbb 1</string>
+    <string name="data_3">3.Tugas Akhir ini dibimbing oleh ibu Anggunmeka Luhur Prasasti S.T., M.T. Selaku pbb 2</string>
+    <string name="data_4">4.Bapak Roswan Latuconsina S.T., M.T. selaku dosen wali mahasiswa 38-02</string>
+    <string name="data_5">5.Diabetes Melitus merupakan diabetes melitus tipe 1 dan diabetes melitus tipe 2</string>
+</resources>
